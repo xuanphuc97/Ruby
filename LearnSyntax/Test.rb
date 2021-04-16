@@ -13,6 +13,13 @@
 #   print key, " is ", value, "\n"
 # end
 
-(15..10-1).each do |i|
-  puts i
-end
+# (15..10-1).each do |i|
+#   puts i
+# end
+
+# puts('asdasdsa\'s')
+# #
+#
+# a,b = 1,2
+# a, b = b, a
+# print(a, b)
